@@ -1,0 +1,17 @@
+echo "# Trans-stuffs-for-creators-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ZafiroRey/Trans-stuffs-for-creators-.git
+git push -u origin main
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Botón de la Bandera Trans</title>
+</head>
+<body>
+    <a href= "# Trans-stuffs-for-creators-" style="background-color: #55CDFC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Bandera Trans</a>
+</body>
+</html>
+end
